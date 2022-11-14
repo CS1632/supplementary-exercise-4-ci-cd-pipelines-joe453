@@ -56,7 +56,7 @@ jobs:
     steps:
     
     - name: Check directory contents
-    run: ls -l
+      run: ls -l
 
     # https://github.com/marketplace/actions/maven-dependency-tree-dependency-submission
     - name: Update dependency graph
