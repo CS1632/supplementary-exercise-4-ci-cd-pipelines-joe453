@@ -37,6 +37,14 @@
     <repository>
       <id>github</id>
       <name>GitHub Apache Maven Packages</name>
+      <url>https://maven.pkg.github.com/CS1632/supplementary-exercise-4-ci-cd-pipelines-wonsunahn</url>
+    </repository>
+  </distributionManagement>
+
+  <distributionManagement>
+    <repository>
+      <id>github</id>
+      <name>GitHub Apache Maven Packages</name>
       <url>https://maven.pkg.github.com/CS1632/supplementary-exercise-4-ci-cd-pipelines-joe453</url>
     </repository>
   </distributionManagement>
